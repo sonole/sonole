@@ -24,8 +24,6 @@ def print_list(list):
     print('')
 
 
-
 print_list(removeDuplicates(a_list))
 
 print_list(sortList(removeDuplicates(a_list)))
-
