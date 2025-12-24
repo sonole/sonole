@@ -21,19 +21,3 @@ While I specialize in backend development, my adaptability allows me to quickly 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
-
-## Some Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonole&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-</div>
-
-## 📫 Contact
-- 🌐 Website: [apaliampelos.me](https://apaliampelos.me)
-- 💼 LinkedIn: [linkedin.com/in/alexandros-paliampelos-72544a147](https://www.linkedin.com/in/alexandros-paliampelos-72544a147/)
-- 📧 Email: [alexandrospaliampelos@gmail.com](mailto:alexandrospaliampelos@gmail.com)
- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sonole/sonole/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sonole/sonole/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sonole/sonole/output/github-snake.svg" />
-</picture>
